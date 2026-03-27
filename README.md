@@ -168,53 +168,6 @@ User sends a message  ──►  n8n Chat Trigger  ──►  AI Agent (ROEX)  �
 
 ---
 
-## 🖼 Screenshots & Images
-
-> **Add your own screenshots to the `/assets` folder and update the paths below.**
-
-### 📁 Suggested Asset Structure
-
-```
-📁 assets/
- ├── screenshot-chat-ui.png       ← Chat interface in action
- ├── screenshot-workflow.png      ← n8n workflow canvas
- ├── screenshot-github-tool.png   ← GitHub issue creation demo
- └── banner.png                   ← Project hero banner
-```
-
-### Workflow Canvas
-<!-- Replace the src with your actual screenshot path -->
-```
-[Add screenshot: assets/screenshot-workflow.png]
-Tip: Open your n8n canvas → Ctrl+Shift+S → Save screenshot
-```
-
-### Live Chat Demo
-```
-[Add screenshot: assets/screenshot-chat-ui.png]
-Tip: Use the public chat URL from the Chat Trigger node
-```
-
-### GitHub Issue Tool in Action
-```
-[Add screenshot: assets/screenshot-github-tool.png]
-Tip: Ask ROEX to create an issue and capture the result
-```
-
-<!-- Uncomment after adding your images -->
-<!--
-<div align="center">
-
-<img src="assets/screenshot-workflow.png" alt="n8n Workflow Canvas" width="80%"/>
-<br/><br/>
-<img src="assets/screenshot-chat-ui.png" alt="ROEX Chat Interface" width="60%"/>
-<br/><br/>
-<img src="assets/screenshot-github-tool.png" alt="GitHub Tool Demo" width="60%"/>
-
-</div>
--->
-
----
 
 ## 🚀 Getting Started
 
